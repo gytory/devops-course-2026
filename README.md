@@ -11,3 +11,4 @@ DEV_3.md 2026-09-12
 - Git / GitHub
 - Python
 - Docker (скоро)
+# Multi-remote test
